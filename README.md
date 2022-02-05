@@ -1,2 +1,5 @@
 # hola-mundo
-repositorio prueba
+Mi primer repositorio prueba.
+
+Autor: Samuel E.
+Fecha: 05 de febrero
